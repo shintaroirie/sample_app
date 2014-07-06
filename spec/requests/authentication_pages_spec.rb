@@ -1,5 +1,5 @@
 require 'spec_helper'
-#おれおれ
+
 describe "Authentication" do
 
   subject { page }
